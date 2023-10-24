@@ -148,7 +148,7 @@ function Calculator() {
               onClick={clickHandel}
               type="button"
               className="bg-gray-200 shadow-md w-12 h-12 rounded-lg text-center text-black  font-medium"
-              value="1"
+              value="0"
             />
             <input
               onClick={clickHandel}
