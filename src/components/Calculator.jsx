@@ -31,7 +31,7 @@ function Calculator() {
 
         <div className="brand mb-2">
           <h1 className="text-gray-900 text-xs font-bold bg-gray-200 bg-opacity-90 text-center">
-            🌐©Rakesh gupta-2023™©❤
+            🌐©Rakesh gupta-2023™❤
           </h1>
         </div>
         <div className="keyboard">
